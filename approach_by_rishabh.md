@@ -12,7 +12,7 @@ Finally, necessary logic is performed to scrap the data from the web page and wr
 ### Submission By:
 **Name:** Rishabh Saxena  
 **Email:** saxenarishabh100@gmail.com  
-**Contact** Number: 7417342655  
+**Contact Number:** 7417342655  
 **GitHub:** https://github.com/saxena-rishabh  
 **LinkedIn:** https://www.linkedin.com/in/saxena-rishabh/  
 
