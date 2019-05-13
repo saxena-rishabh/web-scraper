@@ -1,0 +1,23 @@
+S.no,Car,Brand,Model,Variant,Fuel Type,Model Year,Mileage,Price,City,Site,Url 
+1, Maruti Suzuki Baleno Zeta 1.2 2018, Maruti Suzuki, Baleno, Zeta, Petrol,2018, 13000 Km,64680, Delhi, Droom, https://droom.in/product/maruti-suzuki-baleno-zeta-12-2018-5ccff9549680ad6309684f66
+2, Maruti Suzuki Baleno Zeta AT 1.2 2018, Maruti Suzuki, Baleno, Zeta, Petrol,2018, 4131 Km,77500, Jaipur, Droom, https://droom.in/product/maruti-suzuki-baleno-zeta-at-12-2018-5cd288e8edf3acc4068b4583
+3, Maruti Suzuki Baleno Alpha 1.2 2016, Maruti Suzuki, Baleno, Alpha, Petrol,2016, 27000 Km,65000, Delhi, Droom, https://droom.in/product/maruti-suzuki-baleno-alpha-12-2016-5ccfdce522865dba0769bde3
+4, Maruti Suzuki Baleno RS 1.0 2017, Maruti Suzuki, Baleno, RS, Petrol,2017, 50000 Km,72500, Bangalore, Droom, https://droom.in/product/maruti-suzuki-baleno-rs-10-2017-5cd27eb123865d7f07e93cf0
+5, Maruti Suzuki Baleno Delta AT 1.2 2018, Maruti Suzuki, Baleno, Delta, Petrol,2018, 32564 Km,72800, Delhi, Droom, https://droom.in/product/maruti-suzuki-baleno-delta-at-12-2018-5c17ecb743865d612016c5bf
+6, Maruti Suzuki Baleno Delta 1.3 2016, Maruti Suzuki, Baleno, Delta, Diesel,2016, 71594 Km,62500, Jaipur, Droom, https://droom.in/product/maruti-suzuki-baleno-delta-13-2016-5cd2b3e8076e4bab068b45b7
+7, Maruti Suzuki Baleno Delta 1.2 2017, Maruti Suzuki, Baleno, Delta, Petrol,2017, 18000 Km,58500, Delhi, Droom, https://droom.in/product/maruti-suzuki-baleno-delta-12-2017-5cd3c36c9d6d4baf068b457e
+8, Maruti Suzuki Baleno Alpha 1.3 2016, Maruti Suzuki, Baleno, Alpha, Diesel,2016, 29000 Km,63700, Kolkata, Droom, https://droom.in/product/maruti-suzuki-baleno-alpha-13-2016-5cca719fe5714b9d09fa96fa
+9, Maruti Suzuki Baleno Sigma 1.3 2016, Maruti Suzuki, Baleno, Sigma, Diesel,2016, 27000 Km,46550, Kolkata, Droom, https://droom.in/product/maruti-suzuki-baleno-sigma-13-2016-5c9b1cbb026e4b2f086a34cb
+10, Maruti Suzuki Baleno VXI BS III 2005, Maruti Suzuki, Baleno, VXI, Petrol,2005, 90000 Km,11270, Pune, Droom, https://droom.in/product/maruti-suzuki-baleno-vxi-bs-iii-2005-5cd012ff30f4ac8b0769be0d
+11, Maruti Suzuki Baleno Vxi 2004, Maruti Suzuki, Baleno, Vxi, Petrol,2004, 89000 Km,14700, Chennai, Droom, https://droom.in/product/maruti-suzuki-baleno-vxi-2004-5cd427e6a28a5d2d088b4626
+12, Maruti Suzuki Baleno Delta 1.2 2018, Maruti Suzuki, Baleno, Delta, Petrol,2018, 8710 Km,59900, Aurangabad, Droom, https://droom.in/product/maruti-suzuki-baleno-delta-12-2018-5ccb9e12b780adcb121a9159658
+13, Hyundai Eon Magna +, Hyundai, Eon, Magna+, Petrol,2013, 52314KMs,225000, New Delhi, Cartrade, https://www.cartrade.com/buy-used-cars/new-delhi/hyundai/eon/3820787.html
+15, Hyundai Eon D-Lite +, Hyundai, Eon, D-Lite+, Petrol,2013, 32700KMs,275000, Bangalore, Cartrade, https://www.cartrade.com/buy-used-cars/new-delhi/hyundai/eon/3820787.html
+16, Hyundai Eon Era +, Hyundai, Eon, Era+, Petrol,2016, 49000KMs,285000, Jaipur, Cartrade, https://www.cartrade.com/buy-used-cars/new-delhi/hyundai/eon/3820787.html
+18, Hyundai Eon Era +, Hyundai, Eon, Era+, Petrol,2016, 49000KMs,285000, Jaipur, Cartrade, https://www.cartrade.com/buy-used-cars/new-delhi/hyundai/eon/3820787.html
+19, Hyundai Eon Era +, Hyundai, Eon, Era+, Petrol,2013, 79258KMs,211000, New Delhi, Cartrade, https://www.cartrade.com/buy-used-cars/new-delhi/hyundai/eon/3820787.html
+20, Hyundai Eon Era +, Hyundai, Eon, Era+, Petrol,2013, 39000KMs,241000, Thane, Cartrade, https://www.cartrade.com/buy-used-cars/new-delhi/hyundai/eon/3820787.html
+21, Hyundai Eon Era +, Hyundai, Eon, Era+, Petrol,2017, 11000KMs,365000, Chennai, Cartrade, https://www.cartrade.com/buy-used-cars/new-delhi/hyundai/eon/3820787.html
+22, Hyundai Eon Magna +, Hyundai, Eon, Magna+, Petrol,2016, 37000KMs,365000, Chennai, Cartrade, https://www.cartrade.com/buy-used-cars/new-delhi/hyundai/eon/3820787.html
+23, Hyundai Eon D-Lite +, Hyundai, Eon, D-Lite+, Petrol,2012, 285000KMs,285000, Chennai, Cartrade, https://www.cartrade.com/buy-used-cars/new-delhi/hyundai/eon/3820787.html
+24, Hyundai Eon Era +, Hyundai, Eon, Era+, Petrol,2015, 30000KMs,345000, Chennai, Cartrade, https://www.cartrade.com/buy-used-cars/new-delhi/hyundai/eon/3820787.html
